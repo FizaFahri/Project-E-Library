@@ -1,9 +1,10 @@
 # Project-E-Library
 Tugas Praktikum Pemrograman Web
 
+untuk menjalankannya
 # Siapkan Database
-
-Siapkan e_library.db
+Siapkan e_library.db manual xampp (create database)
+Jalankan Backendnya dulu maka dalamen databasenya akan muncul otomatis karena kode dari backennya
 
 # 1 Setup Backend
 1. Masuk ke direktori backend : cd backend
