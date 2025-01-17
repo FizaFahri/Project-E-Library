@@ -1,6 +1,9 @@
 # Project-E-Library
 Tugas Praktikum Pemrograman Web
 
+#Siapkan Database
+Siapkan e_library.db
+
 # 1 Setup Backend
 1. Masuk ke direktori backend : cd backend
 2. Installl depensi : npm instal
