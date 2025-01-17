@@ -52,4 +52,4 @@ Jalankan Backendnya dulu maka dalamen databasenya akan muncul otomatis karena ko
 
 
 note : Karena tidak dapat mengirimkan semua filenya di github jadi saya berikan link gdrive.
-link : https://drive.google.com/file/d/1f93OjZGe8D15-n0ZxnSFUeUE3rFie2uY/view?usp=drive_link
+link : https://drive.google.com/drive/folders/19AyGY0pDIfLwWteZg4WdbaSOgx0AQmhP?usp=drive_link
