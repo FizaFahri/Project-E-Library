@@ -49,3 +49,7 @@ Jalankan Backendnya dulu maka dalamen databasenya akan muncul otomatis karena ko
    - Status
    - Keterangan Terlambat
 3. Klik Tambah, Edit atau delete
+
+
+note : Karena tidak dapat mengirimkan semua filenya di github jadi saya berikan link gdrive.
+link : https://drive.google.com/file/d/1f93OjZGe8D15-n0ZxnSFUeUE3rFie2uY/view?usp=drive_link
